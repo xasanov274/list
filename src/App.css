@@ -1,0 +1,56 @@
+.obwi {
+  display: flex;
+}
+
+.h11 {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 57.55px;
+  letter-spacing: 0%;
+  color: #000000;
+  padding: 19px 1318px 64px 75px;
+}
+
+.block {
+  background-color: #f2f2f2f2;
+  width: 636px;
+  height: 151px;
+  display: flex;
+  margin-bottom: 152px;
+  border-radius: 20px;
+  gap: 24px;
+  margin-left: 80px;
+  /* align-items: center; */
+  padding: 7px 6px 7px 33px;
+}
+
+.block img {
+  width: 100px;
+  height: 100px;
+}
+
+.block-image {
+  background-color: #fde9cb;
+  width: 135px;
+  height: 135px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.h-big h1 {
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38.37px;
+  letter-spacing: 0%;
+  color: #000000;
+}
+
+.h-big h2 {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28.78px;
+  letter-spacing: 0%;
+  color: #8E8080;
+}
